@@ -3,7 +3,7 @@
 ### Full Stack Developer | Problem Solver | Lifelong Learner
 
 ## 💫 About Me
-I'm a self-taught developer who loves turning ideas into reality through code. Whether it's creating an application for personal or professional use, I'm passionate about the development process.
+I'm a self-taught developer passionate about turning ideas into code. From building a Next.js fitness tracking app to contributing to Path of Exile's largest external application - I'm constantly growing and loving every minute of the development journey.
 
 ## 🚀 What I'm Up To
 - 💪 Currently working on expanding my full-stack development skills via a project I'm calling "GetFit"
