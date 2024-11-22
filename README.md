@@ -43,4 +43,4 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 If you're in the Los Angeles area, would love to connect over coffee and chat.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-tycyn-schmidt-198334133/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge)](jaketycyndev.bsky.social)
+[![Bluesky][(https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge)](jaketycyndev.bsky.social)](https://bsky.app/profile/jaketycyndev.bsky.social)
