@@ -42,5 +42,5 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 If you're in the Los Angeles area, would love to connect over coffee and chat.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-tycyn-schmidt-198334133/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Your-GitHub-URL)
