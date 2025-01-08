@@ -7,7 +7,7 @@ I'm a self-taught developer passionate about turning ideas into code. From build
 
 ## 🚀 What I'm Up To
 - 💪 Currently working on expanding my full-stack development skills via a project I'm calling "GetFit"
-- 🎓 Taking a Data & Algorithms class in C++ at my local Community College (SMC)
+- 🎓 Taking courses at Santa Monica Community College in Computer Science
 - 🔭 Building out a portfolio website with Carousel Displays to show off previous photography work
 
 ## 🛠️ Tech Stack
